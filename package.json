@@ -5,9 +5,9 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:local": "ng build  --configuration production --base-href /dist/dat-hang-angular/ --deploy-url /dist/dat-hang-angular/",
-    "build:github": "ng build --output-path docs --base-href /DatHangAngular/",
-    "deploy": "ng deploy --base-href /DatHangAngular/ --no-silent  --name NguyenTienDat --email datnt.it.pro@gmail.com",
+    "build:local": "ng build  --configuration production --base-href /dist/dat-hang-phan-tan/ --deploy-url /dist/dat-hang-phan-tan/",
+    "build:github": "ng build --output-path docs --base-href /he-thong-phan-tan/",
+    "deploy": "ng deploy --base-href /he-thong-phan-tan/ --no-silent  --name NguyenTienDat --email datnt.it.pro@gmail.com",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
